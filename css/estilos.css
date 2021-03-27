@@ -26,7 +26,7 @@ img:hover{
 .puntajes{
     border: rgb(0, 0, 0) 8px solid;
     text-align: center;
-    padding: 1.5rem;
+    padding: 1rem;
 }
 .puntaje{
     margin-bottom: -10%;
@@ -35,6 +35,11 @@ img:hover{
 
 .puntaje3{
     margin-bottom: 10%;
+}
+
+.puntajes h1{
+    font-size: 20px;
+    margin-top: 31px;
 }
 
 
@@ -66,9 +71,9 @@ input{
 }
 
 .button1{
-margin-left: 9%;
 
-    font-size: 40px;
+
+    font-size: 25px;
     cursor: pointer;
 -webkit-transition : all 0.3s ease-in-out;
 -moz-transition : all 0.3s ease-in-out;
@@ -87,7 +92,7 @@ word-wrap: break-word;
 .button2{
     margin-left: 9%;
     
-        font-size: 40px;
+        font-size: 25px;
         cursor: pointer;
     -webkit-transition : all 0.3s ease-in-out;
     -moz-transition : all 0.3s ease-in-out;
