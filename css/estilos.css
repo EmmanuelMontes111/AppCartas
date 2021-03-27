@@ -4,12 +4,7 @@ body{
 
 }
 
-.todo{
-    margin-top: 0%;
-    margin-left: 0%;
-    margin-right: 0%;
-    margin-bottom: 0%;
-}
+
 
 img {
     cursor: pointer;
@@ -31,7 +26,7 @@ img:hover{
 .container{
    margin-top: 4%;
     margin-left: 1%;
-    margin-right: 11%;
+    margin-right: 20%;
     margin-bottom: 1%;
 }
 
